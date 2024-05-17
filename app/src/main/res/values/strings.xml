@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ElectriCalc</string>
+    <string name="copyright">
+        \u00A9 2024 Anis Nadia Binti Mohamad Zakaria\n
+        All rights reserved
+    </string>
+    <string name="calculator">Calculate Bill</string>
+    <string name="result_format">Final cost: RM %.2f</string>
+    <string name="invalid_input_message">Invalid input, please enter valid numbers.</string>
+    <string name="units_used_format">Units used: %d kWh</string>
+    <string name="rebate_percentage_format">Rebate percentage: %.2f%%</string>
+    <string name="Enter_units_used">Enter unit used (kWh)</string>
+    <string name="Enter_rebate">Enter rebate (0% - 5%)</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Clear">Clear</string>
+    <string name="bill_detailed">Bill Detailed:</string>
+    <string name="about_title">About Page</string>
+    <string name="introduction">
+        Name: ANIS NADIA BINTI MOHAMAD ZAKARIA\n
+        Matrix No.: 2022755409\n
+        Group: RCS2515A\n
+        Application Name: ElectriCalc\n
+        Coding For this Application: <a href="https://github.com/dashboard" name="linkGH">GitHub</a></string>
+    <string name="help">Help</string>
+    <string name="HowTo">How To Use the Calculator:\n
+        1. Input Data:\n
+        \t\t\tEnter your electricity usage (kWh)\n
+        2. Input Rebate:\n
+        \t\t\tEnter the rebate percentage applicable\n
+        \t\t\tto your electricity bill. 0% to 5%\n
+        3. Calculate:\n
+        \t\t\tTap "Calculate" to estimate your bill.\n
+        4. Review:\n
+        \t\t\tCheck the estimated bill displayed.\n
+</string>
+
+</resources>
